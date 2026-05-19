@@ -1,103 +1,150 @@
 <div align="center">
 
-# ⚡ MercyProductions
+# ⚡ MERCYPRODUCTIONS ⚡
 
-```cpp
-Engine Hacking > Runtime Research > Universal Systems
-```
-
-🛠️ Building advanced tooling, universal frameworks, diagnostics platforms, overlays, automation systems, and experimental software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Engine+Hacking;Runtime+Research;Universal+Systems;Experimental+Software+Engineering;AI+Assisted+Development;Native+Desktop+Engineering" />
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MercyProductions&color=red)
-![GitHub followers](https://img.shields.io/github/followers/MercyProductions?style=social)
-
-</div>
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-# 🧠 About Me
-
-```yaml
-Focus:
-  - Universal Engine Projects
-  - Runtime Systems
-  - Desktop Engineering
-  - AI-Assisted Development
-  - Rendering & Overlay Systems
-  - Experimental Research
-
-Currently Building:
-  - Aegis Ecosystem
-  - Universal Runtime Frameworks
-  - Diagnostics & Monitoring Tools
-  - AI Automation Platforms
+```cpp
+[ AEGIS ECOSYSTEM ]
+> Engine Hacking
+> Runtime Research
+> Universal Projects
+> Experimental Systems
 ```
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-# ⚙️ Tech Stack
-
-## 💻 Languages
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-
-## 🖥️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-
-## 🎨 Graphics / UI
-![DirectX11](https://img.shields.io/badge/DirectX11-black?style=for-the-badge)
-![ImGui](https://img.shields.io/badge/Dear_ImGui-black?style=for-the-badge)
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-# 🚀 Current Interests
-
-- 🎮 Universal Engine Frameworks
-- 🧠 Runtime Diagnostics
-- 🔒 Security & Anti-Tamper Concepts
-- ⚡ Performance Optimization
-- 🌐 Networking & Infrastructure
-- 🤖 AI Development Systems
-- 🛠️ Advanced Desktop Applications
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MercyProductions&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyProductions&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://komarev.com/ghpvc/?username=MercyProductions&color=red&style=for-the-badge" />
 
 </div>
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+---
 
-# 🌌 Philosophy
+# 🧠 WHO AM I
 
-> Minimal clutter. Maximum control.
+```yaml
+Alias: MercyProductions
+Focus:
+  - Universal Runtime Frameworks
+  - Desktop Engineering
+  - Rendering Systems
+  - Overlay Architectures
+  - Automation Platforms
+  - AI Assisted Development
+  - Experimental Research
 
-✨ Clean Design  
-⚡ High Performance  
-🛡️ Modular Architecture  
-🎯 Built With Purpose  
+Philosophy:
+  "Minimal clutter. Maximum control."
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Status:
+  - Building
+  - Learning
+  - Experimenting
+  - Expanding
+```
+
+---
+
+# ⚙️ CURRENT PROJECTS
 
 <div align="center">
 
-# 📡 Status
+| Project | Description |
+|---|---|
+| 🔴 Aegis Ecosystem | Universal systems & tooling platform |
+| 🧠 AI Runtime Systems | AI-assisted development & automation |
+| 🎮 Universal Frameworks | Cross-engine runtime research |
+| 📊 Analytics Platforms | Market & intelligence systems |
+| 🛠️ Diagnostics Suite | Monitoring & debugging utilities |
+| 🌐 Infrastructure | Full-stack systems & backend services |
 
-🟢 Actively Building  
-🧪 Constantly Experimenting  
-🚧 Expanding Universal Projects  
+</div>
+
+---
+
+# 💻 TECHNOLOGY STACK
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js" />
+
+## Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=react,electron,nodejs,fastapi,vite" />
+
+## Tools & Systems
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,sqlite" />
+
+</div>
+
+---
+
+# 🎨 DEVELOPMENT INTERESTS
+
+```diff
++ Universal Engine Projects
++ Native Windows Development
++ Runtime Diagnostics
++ Overlay & Rendering Systems
++ AI Development Platforms
++ Networking & Infrastructure
++ Security & Anti-Tamper Concepts
++ Experimental Desktop Applications
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MercyProductions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyProductions&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🌌 SYSTEM STATUS
+
+<div align="center">
+
+```yaml
+Aegis Runtime:
+  Status: ONLINE
+
+Universal Projects:
+  Expanding...
+
+Diagnostics:
+  Active
+
+Creativity:
+  Unlimited
+
+Sleep Schedule:
+  Broken
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 CONNECTED TO THE VOID
+
+```cpp
+Initializing...
+Loading Runtime...
+Mounting Universal Systems...
+Done.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=120&section=footer"/>
 
 </div>
