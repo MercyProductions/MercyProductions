@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,15:120000,35:3A0000,60:8B0000,100:FF0000&text=MercyProductions&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Runtime%20Research%20%7C%20Universal%20Systems%20%7C%20Experimental%20Engineering&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:0F172A,70:1E3A8A,100:C0C0C0&text=MercyProductions&fontColor=F8FAFC&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Universal%20Systems%20%7C%20Runtime%20Research%20%7C%20Aegis%20Engineering&descAlignY=60&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=FF3131&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Engine+Hacking+%3E+Game+Hacking+%3E+Runtime+Research;Universal+Frameworks+%7C+Native+Desktop+Engineering;AI-Assisted+Systems+%7C+Diagnostics+%7C+Infrastructure;Building+software+that+feels+like+a+control+room" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&multiline=true&width=1050&height=120&lines=Engine+Hacking+%3E+Game+Hacking;Universal+Runtime+Frameworks;Native+Desktop+Engineering;AI-Assisted+Systems+%7C+Diagnostics+%7C+Infrastructure;Software+with+control-room+energy." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-red?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AEGIS-EXPANDING-red?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-red?style=for-the-badge&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=MercyProductions&style=for-the-badge&color=red&label=VISITORS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-60A5FA?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/AEGIS-EXPANDING-C0C0C0?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-60A5FA?style=for-the-badge&labelColor=0F172A" />
+<img src="https://komarev.com/ghpvc/?username=MercyProductions&style=for-the-badge&color=60A5FA&label=VISITORS" />
 
 </div>
 
@@ -19,61 +19,96 @@
 
 <div align="center">
 
-# ⚡ THE AEGIS ECOSYSTEM ⚡
+# 🛡️ MercyProductions
 
-### A connected universe of experimental systems, native desktop platforms, diagnostics environments, AI-assisted workflows, universal runtime frameworks, overlays, launchers, monitoring systems, infrastructure tooling, and premium engineering.
+### `Engine Hacking > Runtime Research > Universal Systems`
+
+> Building software that feels like a command center: clean, modular, animated, technical, and built with purpose.
 
 </div>
 
 ---
 
-# 🧠 MERCYPRODUCTIONS
+## 🌐 Aegis Ecosystem
+
+Aegis is my expanding software universe — a collection of experimental platforms, desktop tools, runtime systems, diagnostics dashboards, AI-assisted workflows, and infrastructure projects built around one idea:
+
+<div align="center">
+
+```txt
+Premium systems.
+Precise control.
+No wasted space.
+No generic energy.
+```
+
+</div>
+
+---
+
+## 🧠 Operator Profile
 
 ```yaml
 Alias: MercyProductions
-Universe: Aegis
-Mode: Experimental
-Architecture: Modular
-Status: Building
+Core: Aegis
+Style: Blue / Silver / Dark
+Mode: Always Building
 
-Specialization:
-  - Runtime Research
-  - Universal Frameworks
-  - Native Windows Engineering
-  - Overlay Systems
-  - AI-Assisted Development
-  - Automation Platforms
-  - Diagnostics & Monitoring
-  - Full-Stack Infrastructure
+Focus:
+  Runtime: Universal Frameworks
+  Desktop: Native Windows Applications
+  Interface: Premium UI / Control Panels
+  Intelligence: AI-Assisted Development
+  Systems: Diagnostics / Monitoring / Automation
+  Infrastructure: APIs / Web Platforms / Data Tools
 
-Mentality:
-  - Premium over ordinary
-  - Build first. Perfect later.
-  - Complexity hidden behind simplicity
-  - Create systems that feel alive
+Signature:
+  - Clean but intimidating
+  - Technical but readable
+  - Futuristic but functional
+  - Simple on the surface
+  - Powerful underneath
 ```
 
 ---
 
-# 🩸 ACTIVE SYSTEMS
+## 🛰️ Active Divisions
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| SYSTEM | DESCRIPTION |
-|:--|:--|
-| 🔴 **Aegis Core** | Main runtime & infrastructure ecosystem |
-| 🧠 **AI Development Systems** | Coding agents, repair loops & automation |
-| 🎮 **Universal Frameworks** | Cross-environment runtime projects |
-| 📡 **Diagnostics Platforms** | Monitoring, analytics & troubleshooting |
-| ⚙️ **Desktop Engineering** | Native applications & premium interfaces |
-| 🌐 **Infrastructure Systems** | Backends, APIs & connected platforms |
-| 🚀 **Experimental Projects** | Concepts that evolve into full systems |
+### 🧩 Universal Runtime
+Cross-environment research, runtime architecture, diagnostics layers, and modular system tooling.
 
-</div>
+</td>
+<td width="50%">
+
+### 🖥️ Desktop Command Centers
+Native applications, launchers, troubleshooters, overlays, dashboards, and premium UI systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Engineering
+Local-first coding agents, automation pipelines, repair loops, project scanners, and workflow intelligence.
+
+</td>
+<td width="50%">
+
+### 🌐 Infrastructure
+Web platforms, backend APIs, licensing systems, data services, and connected product ecosystems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ TECHNOLOGY ARSENAL
+## ⚙️ Technology Arsenal
 
 <div align="center">
 
@@ -83,123 +118,84 @@ Mentality:
 
 ---
 
-# 🖥️ SYSTEM ARCHITECTURE
+## 🧬 System Blueprint
 
 ```cpp
-namespace Aegis
+namespace MercyProductions
 {
-    bool RuntimeResearch      = true;
-    bool NativeDevelopment    = true;
-    bool AIEngineering        = true;
-    bool DiagnosticsSystems   = true;
-    bool OverlayFrameworks    = true;
-    bool PremiumInterfaces    = true;
-    bool AutomationPlatforms  = true;
+    struct AegisEcosystem
+    {
+        bool UniversalRuntime     = true;
+        bool NativeDesktop        = true;
+        bool PremiumInterfaces    = true;
+        bool Diagnostics          = true;
+        bool Automation           = true;
+        bool AIWorkflows          = true;
+        bool Infrastructure       = true;
 
-    std::string CurrentState  = "ONLINE";
-    std::string BuildMode     = "ACTIVE";
-    std::string Ecosystem     = "EXPANDING";
+        const char* Theme         = "Blue / Silver / Dark";
+        const char* Status        = "ONLINE";
+        const char* BuildMode     = "ACTIVE";
+    };
 }
 ```
 
 ---
 
-# 🌌 DESIGN LANGUAGE
+## 🧊 Design Language
 
 <div align="center">
 
-```txt
-Black interfaces.
-Red signal lights.
-Minimal noise.
-Heavy functionality.
-Sharp edges.
-Soft glow.
-Industrial aesthetics.
-Control room atmosphere.
-Premium motion.
-Built to feel alive.
-```
+| Element | Direction |
+|:--|:--|
+| 🌑 Background | Deep navy / near-black |
+| 🧊 Accent | Electric blue |
+| ⚙️ Metal | Silver / steel |
+| ✨ Motion | Smooth, subtle, premium |
+| 🧭 Layout | Clean sections, strong hierarchy |
+| 🛠️ Feel | Control room, not template |
+| 🔒 Energy | Technical, serious, polished |
 
 </div>
 
 ---
 
-# ⚡ DEVELOPMENT PHILOSOPHY
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧩 Modular By Design
-Every system should connect, expand, evolve, and integrate naturally.
-
-</td>
-<td width="50%">
-
-### 🎨 Premium Interfaces
-Software should feel expensive before you even click anything.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚀 Experimental Engineering
-Push ideas further than they realistically need to go.
-
-</td>
-<td width="50%">
-
-### 🛠️ Build Without Limits
-The best projects start as impossible ideas.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧬 CURRENT OBJECTIVES
+## 🚀 Current Objectives
 
 ```diff
-+ Expand the Aegis Ecosystem
-+ Engineer universal runtime systems
-+ Develop futuristic desktop environments
-+ Push AI-assisted workflows further
-+ Build cleaner & faster infrastructures
-+ Create software with identity
-+ Turn concepts into living systems
++ Expand the Aegis ecosystem
++ Build universal runtime frameworks
++ Design premium desktop control panels
++ Push AI-assisted development further
++ Create diagnostics systems with real utility
++ Engineer cleaner automation workflows
++ Turn rough concepts into finished platforms
 ```
 
 ---
 
-# 🔴 LIVE TERMINAL
-
-<div align="center">
+## 🖥️ Live Console
 
 ```bash
-> Initializing Aegis Runtime...
-> Loading Universal Frameworks...
-> Mounting Diagnostics Systems...
-> Synchronizing Infrastructure...
-> Compiling Experimental Modules...
-> Launch Complete.
+> boot aegis-core
+> loading universal-runtime
+> mounting diagnostics-layer
+> syncing infrastructure
+> compiling interface-systems
+> initializing automation-engine
+> status: ONLINE
 ```
-
-</div>
 
 ---
 
-# 🛰️ SIGNAL DETECTED
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=650&color=FFFFFF&center=true&vCenter=true&width=950&lines=Connecting+to+Aegis+Core...;Runtime+Environment+Initialized;Diagnostics+Online;Overlay+Systems+Active;Experimental+Modules+Loaded;Welcome+to+MercyProductions." />
+## 🛰️ Incoming Transmission
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=650&color=C0C0C0&center=true&vCenter=true&width=950&lines=Aegis+Core+initialized.;Universal+systems+mounted.;Diagnostics+layer+online.;Interface+engine+active.;Welcome+to+MercyProductions." />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:FF0000,25:8B0000,60:250000,100:000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:C0C0C0,35:1E3A8A,70:0F172A,100:020617" />
 
 </div>
