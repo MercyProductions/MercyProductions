@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0F0F,50:7A0000,100:FF1B1B&text=MERCYPRODUCTIONS&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Universal%20Systems%20•%20Runtime%20Research%20•%20Experimental%20Engineering&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF0000&height=220&section=header&text=MercyProductions&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Runtime%20Research%20%7C%20Universal%20Systems%20%7C%20Aegis%20Ecosystem&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FF3B3B&center=true&vCenter=true&random=false&width=900&lines=Building+What+Shouldn't+Exist...;Universal+Runtime+Architectures;Advanced+Desktop+Engineering;Experimental+AI+Systems;Rendering+%26+Overlay+Frameworks;Aegis+Ecosystem+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF3131&center=true&vCenter=true&width=850&lines=Engine+Hacking+%3E+Game+Hacking;Universal+Runtime+Systems;Native+Desktop+Engineering;AI-Assisted+Development;Diagnostics+%7C+Automation+%7C+Infrastructure;Building+tools+that+feel+dangerous%2C+clean%2C+and+premium" />
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-red?style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/badge/RUNTIME-ACTIVE-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AEGIS-INITIALIZED-darkred?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MercyProductions&style=for-the-badge&color=red&label=PROFILE+VISITS" />
+<img src="https://img.shields.io/github/followers/MercyProductions?style=for-the-badge&color=red&labelColor=111111" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-red?style=for-the-badge&labelColor=111111" />
 
 </div>
 
@@ -16,82 +16,55 @@
 
 <div align="center">
 
-# ⚡ ENTER THE ECOSYSTEM ⚡
+# 🩸 MercyProductions
+
+### `Engine Hacking > Runtime Research > Universal Systems`
+
+> I build experimental systems, universal frameworks, diagnostics platforms, native desktop tools, AI-assisted workflows, and software that feels less like an app — and more like a control room.
 
 </div>
 
-```cpp
-/*
-    MercyProductions
-    ----------------
-    Runtime Researcher
-    Systems Architect
-    Experimental Developer
-
-    Focused on:
-    - Universal Frameworks
-    - Native Desktop Systems
-    - Rendering Architectures
-    - AI-Assisted Development
-    - Diagnostics & Infrastructure
-*/
-```
-
 ---
 
-# 🧠 WHO THE HELL IS THIS?
-
-<div align="center">
+## 🧠 Identity
 
 ```yaml
-Identity:
-  Alias: MercyProductions
-  Core: Aegis Ecosystem
-  State: Building Constantly
-
-Mission:
-  Engineer systems that feel impossible.
-
-Current Direction:
+Name: MercyProductions
+Ecosystem: Aegis
+Focus:
   - Universal Runtime Frameworks
-  - Experimental Desktop Platforms
-  - AI-Powered Development Systems
-  - Advanced Overlay Architectures
-  - Native Windows Engineering
-  - Automation & Infrastructure
+  - Native Windows Applications
+  - Rendering / Overlay Systems
+  - Diagnostics & Monitoring Tools
+  - AI-Assisted Development
+  - Automation Platforms
+  - Full-Stack Infrastructure
+  - Experimental Software Engineering
 
-Philosophy:
-  "Minimal clutter. Maximum control."
+Mindset:
+  - Clean architecture
+  - Premium interfaces
+  - Modular systems
+  - Low-level curiosity
+  - Build first. Refine forever.
 ```
-
-</div>
 
 ---
 
-# 🌌 ACTIVE PROJECTS
-
-<div align="center">
+## ⚡ What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-## 🔴 AEGIS ECOSYSTEM
-Universal tooling platform focused on:
-- Runtime systems
-- Diagnostics
-- Infrastructure
-- Desktop engineering
+### 🧩 Universal Systems
+Frameworks designed to adapt, inspect, diagnose, and operate across different environments.
 
 </td>
 <td width="50%">
 
-## 🧠 AI SYSTEMS
-Building autonomous workflows:
-- AI coding systems
-- Automation platforms
-- Local-first architectures
-- Experimental assistants
+### 🖥️ Native Desktop Tools
+C++, C#, DirectX, ImGui, Electron, and custom interfaces built with a premium dark aesthetic.
 
 </td>
 </tr>
@@ -99,119 +72,118 @@ Building autonomous workflows:
 <tr>
 <td width="50%">
 
-## 🎮 UNIVERSAL FRAMEWORKS
-Researching scalable runtime systems:
-- Rendering pipelines
-- Overlay frameworks
-- Engine abstractions
-- Tooling ecosystems
+### 🤖 AI Development Platforms
+Local-first coding agents, automation workflows, repair loops, project scanners, and intelligent tooling.
 
 </td>
 <td width="50%">
 
-## ⚙️ DESKTOP ENGINEERING
-Crafting premium native applications:
-- DirectX interfaces
-- ImGui workstations
-- Monitoring systems
-- Performance tooling
+### 📡 Diagnostics & Infrastructure
+Monitoring, networking, system checks, launchers, troubleshooters, dashboards, and backend services.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# ⚙️ TECHNOLOGY ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,react,electron,nodejs,fastapi,vite,sqlite,git,github,vscode,visualstudio&perline=5" />
-
-</div>
-
----
-
-# 📡 SYSTEM SPECIALIZATIONS
-
-<div align="center">
-
-| Domain | Focus |
-|---|---|
-| 🎮 Runtime Research | Universal system development |
-| 🖥️ Native Engineering | High-performance desktop apps |
-| 🎨 Rendering Systems | DirectX / ImGui interfaces |
-| 🤖 AI Development | Automation & intelligent workflows |
-| 🌐 Infrastructure | Networking & backend systems |
-| 🛡️ Security Concepts | Anti-tamper & diagnostics |
-| ⚡ Optimization | Performance-focused architecture |
-
-</div>
-
----
-
-# 📊 LIVE ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MercyProductions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&icon_color=ff3131&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyProductions&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MercyProductions&bg_color=0D1117&color=ff3131&line=ff3131&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# 🧪 CURRENT STATE
-
-<div align="center">
+## 🔴 Current Universe
 
 ```diff
-+ Building Universal Systems
-+ Expanding Aegis Infrastructure
-+ Researching Experimental Architectures
-+ Creating Premium Desktop Experiences
-+ Engineering AI-Assisted Workflows
++ Aegis Ecosystem
++ Universal Engine Research
++ AI Coding Assistants
++ Runtime Diagnostics
++ Premium Desktop Applications
++ Automation Systems
++ Web Infrastructure
++ Market / Data Intelligence Tools
+```
+
+---
+
+## 💻 Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js" />
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,electron,nodejs,fastapi,nextjs,vite" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,sqlite,prisma" />
+
+</div>
+
+---
+
+## 🛠️ Core Stack
+
+```cpp
+namespace MercyProductions
+{
+    RuntimeResearch   = true;
+    UniversalSystems  = true;
+    NativeEngineering = true;
+    PremiumUI         = true;
+    Automation        = true;
+    AegisEcosystem    = "ONLINE";
+}
+```
+
+---
+
+## 📊 GitHub Signal
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MercyProductions&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyProductions&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🌌 Design Philosophy
+
+<div align="center">
+
+```txt
+Minimal clutter.
+Maximum control.
+Premium visuals.
+Modular architecture.
+Systems that feel alive.
 ```
 
 </div>
 
 ---
 
-# 🌑 TERMINAL
+## 🧬 System Status
 
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
-
-</div>
+```yaml
+Aegis Runtime: ONLINE
+Universal Projects: EXPANDING
+Diagnostics: ACTIVE
+Build Mode: ENABLED
+Creativity: UNRESTRICTED
+Sleep Schedule: COMPROMISED
+```
 
 ---
 
 <div align="center">
 
-# ⚡ FINAL TRANSMISSION ⚡
+## 🛰️ Transmission
 
-```bash
-> Initializing Aegis Runtime...
-> Loading Universal Frameworks...
-> Establishing Experimental Systems...
-> Synchronizing Infrastructure...
-> STATUS: ONLINE
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Initializing+Aegis+Runtime...;Mounting+Universal+Systems...;Loading+Diagnostics...;Compiling+Ideas...;Welcome+to+MercyProductions." />
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MercyProductions&color=ff3131&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F0F0F,50:7A0000,100:FF1B1B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=140&section=footer"/>
 
 </div>
