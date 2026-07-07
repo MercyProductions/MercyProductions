@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:0F172A,70:1E3A8A,100:C0C0C0&text=MercyProductions&fontColor=F8FAFC&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Universal%20Systems%20%7C%20Runtime%20Research%20%7C%20Aegis%20Engineering&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0F172A,70:1E3A8A,100:C0C0C0&text=MercyProductions&fontColor=F8FAFC&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Universal%20Systems%20%7C%20Runtime%20Research%20%7C%20Aegis%20Engineering&descAlignY=60&descSize=18" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&multiline=true&width=1050&height=120&lines=Engine+Hacking+%3E+Game+Hacking;Universal+Runtime+Frameworks;Native+Desktop+Engineering;AI-Assisted+Systems+%7C+Diagnostics+%7C+Infrastructure;Software+with+control-room+energy." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=1000&height=60&lines=Engine+Hacking+%3E+Game+Hacking;Universal+Runtime+Frameworks;Native+Desktop+Command+Centers;AI-Assisted+Systems+%7C+Diagnostics+%7C+Infrastructure" />
 
 <br/>
 
@@ -17,58 +15,19 @@
 
 ---
 
-<div align="center">
+## 🛡️ Aegis
 
-# 🛡️ MercyProductions
-
-### `Engine Hacking > Runtime Research > Universal Systems`
-
-> Building software that feels like a command center: clean, modular, animated, technical, and built with purpose.
-
-</div>
-
----
-
-## 🌐 Aegis Ecosystem
-
-Aegis is my expanding software universe — a collection of experimental platforms, desktop tools, runtime systems, diagnostics dashboards, AI-assisted workflows, and infrastructure projects built around one idea:
+**Aegis** is my software universe — universal runtime frameworks, native desktop control panels, diagnostics systems, AI-assisted workflows, and the infrastructure that connects them. One design rule governs all of it:
 
 <div align="center">
 
 ```txt
-Premium systems.
-Precise control.
-No wasted space.
-No generic energy.
+Premium systems. Precise control. No wasted space. No generic energy.
 ```
 
 </div>
 
----
-
-## 🧠 Operator Profile
-
-```yaml
-Alias: MercyProductions
-Core: Aegis
-Style: Blue / Silver / Dark
-Mode: Always Building
-
-Focus:
-  Runtime: Universal Frameworks
-  Desktop: Native Windows Applications
-  Interface: Premium UI / Control Panels
-  Intelligence: AI-Assisted Development
-  Systems: Diagnostics / Monitoring / Automation
-  Infrastructure: APIs / Web Platforms / Data Tools
-
-Signature:
-  - Clean but intimidating
-  - Technical but readable
-  - Futuristic but functional
-  - Simple on the surface
-  - Powerful underneath
-```
+Clean but intimidating. Technical but readable. Simple on the surface — powerful underneath.
 
 ---
 
@@ -85,7 +44,7 @@ Cross-environment research, runtime architecture, diagnostics layers, and modula
 <td width="50%">
 
 ### 🖥️ Desktop Command Centers
-Native applications, launchers, troubleshooters, overlays, dashboards, and premium UI systems.
+Native Windows applications, launchers, troubleshooters, overlays, and premium UI systems.
 
 </td>
 </tr>
@@ -108,6 +67,23 @@ Web platforms, backend APIs, licensing systems, data services, and connected pro
 
 ---
 
+## 📌 Featured Systems
+
+<!-- Swap the repo names below for your real pinned repos. Delete cards you don't need. -->
+
+<div align="center">
+
+<a href="https://github.com/MercyProductions/REPO-ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MercyProductions&repo=REPO-ONE&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=C0C0C0&text_color=E2E8F0" />
+</a>
+<a href="https://github.com/MercyProductions/REPO-TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MercyProductions&repo=REPO-TWO&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=C0C0C0&text_color=E2E8F0" />
+</a>
+
+</div>
+
+---
+
 ## ⚙️ Technology Arsenal
 
 <div align="center">
@@ -118,59 +94,22 @@ Web platforms, backend APIs, licensing systems, data services, and connected pro
 
 ---
 
-## 🧬 System Blueprint
-
-```cpp
-namespace MercyProductions
-{
-    struct AegisEcosystem
-    {
-        bool UniversalRuntime     = true;
-        bool NativeDesktop        = true;
-        bool PremiumInterfaces    = true;
-        bool Diagnostics          = true;
-        bool Automation           = true;
-        bool AIWorkflows          = true;
-        bool Infrastructure       = true;
-
-        const char* Theme         = "Blue / Silver / Dark";
-        const char* Status        = "ONLINE";
-        const char* BuildMode     = "ACTIVE";
-    };
-}
-```
-
----
-
-## 🧊 Design Language
+## 📡 System Telemetry
 
 <div align="center">
 
-| Element | Direction |
-|:--|:--|
-| 🌑 Background | Deep navy / near-black |
-| 🧊 Accent | Electric blue |
-| ⚙️ Metal | Silver / steel |
-| ✨ Motion | Smooth, subtle, premium |
-| 🧭 Layout | Clean sections, strong hierarchy |
-| 🛠️ Feel | Control room, not template |
-| 🔒 Energy | Technical, serious, polished |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MercyProductions&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=C0C0C0&text_color=E2E8F0&ring_color=60A5FA" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyProductions&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E2E8F0" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MercyProductions&hide_border=true&background=020617&ring=60A5FA&fire=C0C0C0&currStreakLabel=60A5FA&sideLabels=C0C0C0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MercyProductions&bg_color=020617&color=C0C0C0&line=60A5FA&point=F8FAFC&area=true&hide_border=true" />
 
 </div>
-
----
-
-## 🚀 Current Objectives
-
-```diff
-+ Expand the Aegis ecosystem
-+ Build universal runtime frameworks
-+ Design premium desktop control panels
-+ Push AI-assisted development further
-+ Create diagnostics systems with real utility
-+ Engineer cleaner automation workflows
-+ Turn rough concepts into finished platforms
-```
 
 ---
 
@@ -178,11 +117,11 @@ namespace MercyProductions
 
 ```bash
 > boot aegis-core
-> loading universal-runtime
-> mounting diagnostics-layer
-> syncing infrastructure
-> compiling interface-systems
-> initializing automation-engine
+> loading universal-runtime .......... [OK]
+> mounting diagnostics-layer ......... [OK]
+> syncing infrastructure ............. [OK]
+> compiling interface-systems ........ [OK]
+> initializing automation-engine ..... [OK]
 > status: ONLINE
 ```
 
@@ -190,12 +129,8 @@ namespace MercyProductions
 
 <div align="center">
 
-## 🛰️ Incoming Transmission
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=650&color=C0C0C0&center=true&vCenter=true&width=900&lines=Aegis+Core+initialized.;Universal+systems+mounted.;Welcome+to+MercyProductions." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=650&color=C0C0C0&center=true&vCenter=true&width=950&lines=Aegis+Core+initialized.;Universal+systems+mounted.;Diagnostics+layer+online.;Interface+engine+active.;Welcome+to+MercyProductions." />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:C0C0C0,35:1E3A8A,70:0F172A,100:020617" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:C0C0C0,35:1E3A8A,70:0F172A,100:020617" />
 
 </div>
